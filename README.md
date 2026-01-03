@@ -16,7 +16,7 @@ O projeto foi desenvolvido com foco em **usabilidade, aprendizado rápido e nave
 
 ## 🌐 Acesse o Guia
 
-📎 [Clique aqui para visualizar o projeto online](https://seuusuario.github.io/CyberSec_Docs_Explorer/)  
+📎 [Clique aqui para visualizar o projeto online](https://esparta009boy.github.io/CyberSec_Docs/)  
 
 ---
 
@@ -51,5 +51,5 @@ O projeto foi desenvolvido com foco em **usabilidade, aprendizado rápido e nave
 
 1. Faça o download ou clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/CyberSec_Docs_Explorer
+   git clone hhttps://esparta009boy.github.io/CyberSec_Docs/
 
