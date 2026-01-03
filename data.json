@@ -1,0 +1,177 @@
+[
+    {
+        "id": "mitre",
+        "titulo": "MITRE ATT&CK",
+        "categoria": "Framework",
+        "grupo": "Frameworks e Normas Essenciais",
+        "link_oficial": "https://attack.mitre.org/"
+    },
+    {
+        "id": "nist_csf",
+        "titulo": "NIST Cybersecurity Framework",
+        "categoria": "Framework",
+        "grupo": "Frameworks e Normas Essenciais",
+        "link_oficial": "https://www.nist.gov/cyberframework"
+    },
+    {
+        "id": "misp",
+        "titulo": "MISP - Threat Intelligence",
+        "categoria": "Ferramenta/Plataforma",
+        "grupo": "Frameworks e Normas Essenciais",
+        "link_oficial": "https://www.misp-project.org/"
+    },
+    {
+        "id": "rfcs",
+        "titulo": "IETF RFCs",
+        "categoria": "Normas/Protocolos",
+        "grupo": "Frameworks e Normas Essenciais",
+        "link_oficial": "https://www.rfc-editor.org/"
+    },
+    {
+        "id": "iana",
+        "titulo": "IANA Protocols",
+        "categoria": "Normas/Protocolos",
+        "grupo": "Frameworks e Normas Essenciais",
+        "link_oficial": "https://www.iana.org/protocols"
+    },
+    {
+        "id": "lgpd",
+        "titulo": "LGPD (Lei Geral de Proteção de Dados)",
+        "categoria": "Legislação",
+        "grupo": "Documentações e Regulamentações",
+        "link_oficial": "http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm"
+    },
+    {
+        "id": "gdpr",
+        "titulo": "GDPR (General Data Protection Regulation)",
+        "categoria": "Legislação",
+        "grupo": "Documentações e Regulamentações",
+        "link_oficial": "https://gdpr.eu/"
+    },
+    {
+        "id": "marco_civil",
+        "titulo": "Marco Civil da Internet",
+        "categoria": "Legislação",
+        "grupo": "Documentações e Regulamentações",
+        "link_oficial": "http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm"
+    },
+    {
+        "id": "owasp",
+        "titulo": "OWASP",
+        "categoria": "Pentest/AppSec",
+        "grupo": "Frameworks e Normas Essenciais",
+        "link_oficial": "https://owasp.org/"
+    },
+    {
+        "id": "ptes",
+        "titulo": "PTES (Penetration Testing Standard)",
+        "categoria": "Pentest",
+        "grupo": "Frameworks e Normas Essenciais",
+        "link_oficial": "http://www.pentest-standard.org/"
+    },
+    {
+        "id": "osstmm",
+        "titulo": "OSSTMM (ISECOM)",
+        "categoria": "Pentest/Metodologia",
+        "grupo": "Frameworks e Normas Essenciais",
+        "link_oficial": "https://www.isecom.org/"
+    },
+    {
+        "id": "iso27001",
+        "titulo": "ISO/IEC 27001",
+        "categoria": "Norma Internacional",
+        "grupo": "Frameworks e Normas Essenciais",
+        "link_oficial": "https://www.iso.org/isoiec-27001-information-security.html"
+    },
+    {
+        "id": "cis_controls",
+        "titulo": "CIS Controls",
+        "categoria": "Framework",
+        "grupo": "Frameworks e Normas Essenciais",
+        "link_oficial": "https://www.cisecurity.org/controls"
+    },
+    {
+        "id": "cobit",
+        "titulo": "COBIT",
+        "categoria": "Governança",
+        "grupo": "Frameworks e Normas Essenciais",
+        "link_oficial": "https://www.isaca.org/resources/cobit"
+    },
+    {
+        "id": "pci_dss",
+        "titulo": "PCI-DSS",
+        "categoria": "Padrão de Segurança",
+        "grupo": "Frameworks e Normas Essenciais",
+        "link_oficial": "https://www.pcisecuritystandards.org/"
+    },
+    {
+        "id": "soc2",
+        "titulo": "SOC 2",
+        "categoria": "Relatório/Conformidade",
+        "grupo": "Frameworks e Normas Essenciais",
+        "link_oficial": "https://www.aicpa.org/topic/audit-assurance/audit-and-assurance-greater-than-soc-2"
+    },
+    {
+        "id": "fisma",
+        "titulo": "FISMA",
+        "categoria": "Legislação (EUA)",
+        "grupo": "Documentações e Regulamentações",
+        "link_oficial": "https://www.cisa.gov/topics/cyber-threats-and-advisories/federal-information-security-modernization-act"
+    },
+    {
+        "id": "ccpa",
+        "titulo": "CCPA (California Consumer Privacy Act)",
+        "categoria": "Legislação (EUA)",
+        "grupo": "Documentações e Regulamentações",
+        "link_oficial": "https://oag.ca.gov/privacy/ccpa"
+    },
+    {
+        "id": "hipaa",
+        "titulo": "HIPAA",
+        "categoria": "Legislação (Saúde)",
+        "grupo": "Documentações e Regulamentações",
+        "link_oficial": "https://www.hhs.gov/hipaa/index.html"
+    },
+    {
+        "id": "portal_igarape",
+        "titulo": "Portal Brasileiro da Cibersegurança",
+        "categoria": "Portal/Pesquisa",
+        "grupo": "Sites e Portais de Referência",
+        "link_oficial": "https://igarape.org.br/temas/ciberseguranca/"
+    },
+    {
+        "id": "keeper_blog",
+        "titulo": "Keeper Security Blog",
+        "categoria": "Blog/Notícias",
+        "grupo": "Sites e Portais de Referência",
+        "link_oficial": "https://www.keepersecurity.com/blog/"
+    },
+    {
+        "id": "alura_guia",
+        "titulo": "Alura – Guia de Cibersegurança",
+        "categoria": "Guia/Educação",
+        "grupo": "Sites e Portais de Referência",
+        "link_oficial": "https://www.alura.com.br/artigos/seguranca-da-informacao"
+    },
+    {
+        "id": "sans",
+        "titulo": "SANS Institute",
+        "categoria": "Educação/Pesquisa",
+        "grupo": "Sites e Portais de Referência",
+        "link_oficial": "https://www.sans.org/"
+    },
+    {
+        "id": "cisa",
+        "titulo": "CISA",
+        "categoria": "Agência Governamental",
+        "grupo": "Sites e Portais de Referência",
+        "link_oficial": "https://www.cisa.gov/"
+    },
+    {
+        "id": "cert_br",
+        "titulo": "CERT.br",
+        "categoria": "CSIRT Nacional",
+        "grupo": "Sites e Portais de Referência",
+        "link_oficial": "https://www.cert.br/"
+    }
+]
